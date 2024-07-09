@@ -7,8 +7,8 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina local
 ### Passo 1: Clone o Repositório
 
 ```bash
-git clone <URL-DO-REPOSITÓRIO>
-cd <NOME-DO-REPOSITÓRIO>
+git clone https://github.com/LukasAlencar/activesManagmentBack.git
+cd activesManagmentBack
 ```
 ### Passo 2: Crie uma Conta no MongoDB Atlas
 Caso não tenha uma conta, crie uma no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) e configure um novo Cluster.
